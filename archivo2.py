@@ -1,1 +1,1 @@
-print("no todo")
+print("bad")
